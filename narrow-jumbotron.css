@@ -12,6 +12,10 @@ body {
   padding-left: 1rem;
 }
 
+.title_buttons{
+  margin: 1rem;
+}
+
 /* Custom page header */
 .header {
   padding-bottom: 1rem;

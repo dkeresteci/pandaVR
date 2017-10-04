@@ -1,0 +1,13 @@
+.boxes{
+	border-color: #fff; 
+	border-radius: 5px; 
+	border-width: 3px;
+}
+
+.btn-responsive {
+    white-space: normal !important;
+}
+
+.title-btn{
+	margin: 1rem 0rem;
+}
